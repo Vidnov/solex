@@ -1,0 +1,2 @@
+# solex
+Сайт для Solex
